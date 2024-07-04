@@ -1,4 +1,4 @@
-WORD MATCH COUNT
+WORD MATCH COUNT PROGRAM
 
 Requires JDK 8 or higher
 
