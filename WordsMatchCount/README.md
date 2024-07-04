@@ -2,8 +2,8 @@ WORD MATCH COUNT PROGRAM
 
 Requires JDK 8 or higher
 
-Compilation
+Compilation -
     javac App.java
 
-Run
+Run -
     java App <inputFilePath> <predefinedFilePath>
